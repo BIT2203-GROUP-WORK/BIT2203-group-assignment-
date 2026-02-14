@@ -14,7 +14,7 @@ We have provided separate code files for each classification type:
 
 **Dynamic (Linked List)**: Located in linked_list_dynamic.py. Used for memory flexibility.
 
-**Dynamic (Stack)**: Located in stack_dynamic.py. Used for LIFO operations.
+**Dynamic (Stack)**: Located in stack data structure.c. Used for LIFO operations.
 
 **Dynamic (Queue)**: Located in queue_dynamic.py. Used for FIFO operations.
 
